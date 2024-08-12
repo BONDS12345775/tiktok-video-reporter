@@ -1,3 +1,4 @@
 # Tittok Video Reporter
 
-## Send a lot of reports automatically to any video on Tiktok
+## Send a lot of reports automatically to the tiktok video link 
+## https://vm.tiktok.com/ZMrgUuPkr/
